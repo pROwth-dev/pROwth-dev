@@ -1,11 +1,11 @@
-# Prowth FAQ & Common Questions
+# pROwth FAQ & Common Questions
 
 ## General Questions
 
-### What is Prowth?
-Prowth (pROwth) is a comprehensive digital growth marketing agency that specializes in driving sustainable business growth through data-driven strategies, performance marketing, and full-stack solutions. We serve as "The Growth Partner Your Brand Deserves" for D2C brands, B2C companies, and B2B organizations.
+### What is pROwth?
+pROwth (pROwth) is a comprehensive digital growth marketing agency that specializes in driving sustainable business growth through data-driven strategies, performance marketing, and full-stack solutions. We serve as "The Growth Partner Your Brand Deserves" for D2C brands, B2C companies, and B2B organizations.
 
-### What makes Prowth different from other marketing agencies?
+### What makes pROwth different from other marketing agencies?
 - **Data-Driven Approach**: Every strategy is backed by comprehensive analytics and measurable results
 - **Full-Stack Solutions**: End-to-end capabilities from strategy to execution
 - **Performance Focus**: ROI and measurable outcomes prioritized over vanity metrics
@@ -13,7 +13,7 @@ Prowth (pROwth) is a comprehensive digital growth marketing agency that speciali
 - **Technology Integration**: Advanced tools and automation for optimal efficiency
 - **Partnership Model**: Collaborative relationship focused on long-term success
 
-### What types of businesses does Prowth work with?
+### What types of businesses does pROwth work with?
 We work with a diverse range of businesses including:
 - **D2C (Direct-to-Consumer)** brands seeking customer acquisition and retention
 - **B2C (Business-to-Consumer)** companies looking to scale their reach
@@ -31,7 +31,7 @@ We offer several engagement models:
 
 ## Service-Related Questions
 
-### What services does Prowth provide?
+### What services does pROwth provide?
 Our comprehensive service offerings include:
 - **Performance Marketing**: ROI-focused advertising campaigns across multiple channels
 - **Growth Strategy**: Long-term strategic planning and market expansion guidance
@@ -192,4 +192,4 @@ Your team's involvement includes:
 
 ---
 
-*This FAQ addresses the most common questions about working with Prowth. For specific questions not covered here, please contact our team for personalized assistance and detailed information.*
+*This FAQ addresses the most common questions about working with pROwth. For specific questions not covered here, please contact our team for personalized assistance and detailed information.*
