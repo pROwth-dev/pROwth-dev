@@ -1,7 +1,7 @@
-# Prowth (pROwth) - Your Ultimate Growth Partner
+# pROwth - Your Ultimate Growth Partner
 
 ## Company Overview
-Prowth is a comprehensive digital growth marketing agency that specializes in driving sustainable business growth through data-driven strategies, performance marketing, and full-stack solutions. The company positions itself as "The Growth Partner Your Brand Deserves" and focuses on delivering measurable results for commerce brands, D2C companies, and B2B organizations.
+pROwth is a comprehensive digital growth marketing agency that specializes in driving sustainable business growth through data-driven strategies, performance marketing, and full-stack solutions. The company positions itself as "The Growth Partner Your Brand Deserves" and focuses on delivering measurable results for commerce brands, D2C companies, and B2B organizations.
 
 ## Core Services
 
@@ -129,9 +129,9 @@ Prowth is a comprehensive digital growth marketing agency that specializes in dr
 - **Business Focus**: Commerce Brands, D2C, and B2B growth
 - **Copyright**: © pROwth 2025 | All Rights Reserved
 
-## Why Choose Prowth?
-Prowth stands out in the competitive digital marketing landscape by offering a comprehensive, data-driven approach to business growth. The company's focus on sustainable, long-term success rather than quick wins makes it an ideal partner for businesses looking to build lasting market presence and profitability.
+## Why Choose pROwth?
+pROwth stands out in the competitive digital marketing landscape by offering a comprehensive, data-driven approach to business growth. The company's focus on sustainable, long-term success rather than quick wins makes it an ideal partner for businesses looking to build lasting market presence and profitability.
 
 ---
 
-*This README serves as a comprehensive guide to Prowth's capabilities and serves as a reference for understanding the company's value proposition in the digital growth marketing space.*
+*This README serves as a comprehensive guide to pROwth's capabilities and serves as a reference for understanding the company's value proposition in the digital growth marketing space.*
