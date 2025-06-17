@@ -1,4 +1,4 @@
-# pROwth (pROwth) - Your Ultimate Growth Partner
+# pROwth - Your Ultimate Growth Partner
 
 ## Company Overview
 pROwth is a comprehensive digital growth marketing agency that specializes in driving sustainable business growth through data-driven strategies, performance marketing, and full-stack solutions. The company positions itself as "The Growth Partner Your Brand Deserves" and focuses on delivering measurable results for commerce brands, D2C companies, and B2B organizations.
