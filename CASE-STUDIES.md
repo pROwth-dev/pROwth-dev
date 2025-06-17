@@ -1,7 +1,7 @@
-# Prowth Case Studies & Success Stories
+# pROwth Case Studies & Success Stories
 
 ## Overview
-This document outlines typical success patterns, methodologies, and results achieved through Prowth's comprehensive growth marketing strategies. While specific client names are confidential, these case studies represent real outcomes and proven approaches.
+This document outlines typical success patterns, methodologies, and results achieved through pROwth's comprehensive growth marketing strategies. While specific client names are confidential, these case studies represent real outcomes and proven approaches.
 
 ## D2C Brand Success Stories
 
@@ -17,7 +17,7 @@ This document outlines typical success patterns, methodologies, and results achi
 - Average Order Value: $47
 - Monthly Growth Rate: 3%
 
-#### Prowth Strategy Implementation
+#### pROwth Strategy Implementation
 - **Multi-Channel Approach**: Diversified from Facebook-only to Google, TikTok, and Pinterest
 - **Customer Retention Program**: Implemented email marketing and loyalty program
 - **Creative Optimization**: A/B tested ad creatives with user-generated content
@@ -243,4 +243,4 @@ This document outlines typical success patterns, methodologies, and results achi
 
 ---
 
-*These case studies demonstrate Prowth's ability to deliver measurable results across diverse industries and business models. Each success story follows proven methodologies while being tailored to specific business needs and market conditions.*
+*These case studies demonstrate pROwth's ability to deliver measurable results across diverse industries and business models. Each success story follows proven methodologies while being tailored to specific business needs and market conditions.*

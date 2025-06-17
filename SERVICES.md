@@ -1,4 +1,4 @@
-# Prowth Services - Comprehensive Digital Growth Solutions
+# pROwth Services - Comprehensive Digital Growth Solutions
 
 ## Service Categories Overview
 
@@ -191,4 +191,4 @@
 
 ---
 
-*This comprehensive service breakdown provides detailed information about Prowth's capabilities and helps potential clients understand the full scope of available solutions for their digital growth needs.*
+*This comprehensive service breakdown provides detailed information about pROwth's capabilities and helps potential clients understand the full scope of available solutions for their digital growth needs.*

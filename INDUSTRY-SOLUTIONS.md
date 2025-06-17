@@ -1,4 +1,4 @@
-# Prowth Industry Solutions - Specialized Growth Strategies
+# pROwth Industry Solutions - Specialized Growth Strategies
 
 ## Industry-Specific Expertise
 
@@ -11,7 +11,7 @@
 - **Supply Chain Complexity**: Managing inventory and fulfillment
 - **Data Privacy**: Navigating changing privacy regulations
 
-#### Prowth Solutions for D2C
+#### pROwth Solutions for D2C
 - **Multi-Channel Acquisition**: Diversified customer acquisition strategies
 - **Brand Building**: Comprehensive brand development and positioning
 - **Customer Lifecycle Management**: Retention and loyalty programs
@@ -183,4 +183,4 @@
 
 ---
 
-*This industry-specific breakdown demonstrates Prowth's deep understanding of various business models and their unique growth challenges, providing tailored solutions for optimal results.*
+*This industry-specific breakdown demonstrates pROwth's deep understanding of various business models and their unique growth challenges, providing tailored solutions for optimal results.*
